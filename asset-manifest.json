@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jatinchaturani/React-Rock-paper-scissors.git/static/css/main.9fe4fe35.chunk.css",
+    "main.js": "/jatinchaturani/React-Rock-paper-scissors.git/static/js/main.35878ad5.chunk.js",
+    "main.js.map": "/jatinchaturani/React-Rock-paper-scissors.git/static/js/main.35878ad5.chunk.js.map",
+    "runtime-main.js": "/jatinchaturani/React-Rock-paper-scissors.git/static/js/runtime-main.b50dc5a7.js",
+    "runtime-main.js.map": "/jatinchaturani/React-Rock-paper-scissors.git/static/js/runtime-main.b50dc5a7.js.map",
+    "static/js/2.564b8a35.chunk.js": "/jatinchaturani/React-Rock-paper-scissors.git/static/js/2.564b8a35.chunk.js",
+    "static/js/2.564b8a35.chunk.js.map": "/jatinchaturani/React-Rock-paper-scissors.git/static/js/2.564b8a35.chunk.js.map",
+    "index.html": "/jatinchaturani/React-Rock-paper-scissors.git/index.html",
+    "precache-manifest.93437565aaaf716203c1975a8f302e99.js": "/jatinchaturani/React-Rock-paper-scissors.git/precache-manifest.93437565aaaf716203c1975a8f302e99.js",
+    "service-worker.js": "/jatinchaturani/React-Rock-paper-scissors.git/service-worker.js",
+    "static/css/main.9fe4fe35.chunk.css.map": "/jatinchaturani/React-Rock-paper-scissors.git/static/css/main.9fe4fe35.chunk.css.map",
+    "static/js/2.564b8a35.chunk.js.LICENSE.txt": "/jatinchaturani/React-Rock-paper-scissors.git/static/js/2.564b8a35.chunk.js.LICENSE.txt",
+    "static/media/img1.png": "/jatinchaturani/React-Rock-paper-scissors.git/static/media/img1.1dd4acfd.png",
+    "static/media/img2.png": "/jatinchaturani/React-Rock-paper-scissors.git/static/media/img2.0345a664.png",
+    "static/media/img3.png": "/jatinchaturani/React-Rock-paper-scissors.git/static/media/img3.eec7ceca.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b50dc5a7.js",
+    "static/js/2.564b8a35.chunk.js",
+    "static/css/main.9fe4fe35.chunk.css",
+    "static/js/main.35878ad5.chunk.js"
+  ]
+}
